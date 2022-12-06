@@ -56,11 +56,6 @@
     font-size: 25px;
     padding: 10px;
 
-    /* display: block; */
-
-    /* background-color: #7d7d7d89; */
-    color: rgb(107, 105, 213);
-
     border-radius: 8px 8px 0 0;
 }
 
@@ -72,7 +67,7 @@
 }
 
 #infoContainer li p {
-    padding: 10px;
+    padding: 30px 20px;
 }
 
 #infoContainer li a {
@@ -82,9 +77,9 @@
 }
 
 .resource-link {
-    background-color: #ffe187;
+    background: rgb(107, 105, 213);
     font-weight: 600;
-    color: black;
+    color: white;
     padding: 10px 30px;
     display: block;
     border-radius: 8px;
